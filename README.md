@@ -25,6 +25,7 @@ Attention : Les données en entrée sont injectées sous forme de fichier Pour l
 
 ##Pour executer le projet acceder au dossier puis ecrire les commandes suivantes: 
 
-**mvn clean package** 
+**mvn clean package**  
+
 **java -jar target/KataSolent-app-1.0-SNAPSHOT.jar kataTest.txt**
 
