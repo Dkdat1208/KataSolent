@@ -14,16 +14,17 @@ Chaque tondeuse se déplace de façon séquentielle, ce qui signifie que la seco
 Lorsqu'une tondeuse achève une série d'instruction, elle communique sa position et son orientation.
 
 
-OBJECTIF
+**OBJECTIF**
 Concevoir et écrire un programme en Java. Ce programme devra implémenter la spécification ci-dessus et passer le test ci-après.
 
 
-TEST
+**TEST**
 Le fichier suivant est fourni en entrée : 5 5 1 2 N GAGAGAGAA 3 3 E AADAADADDA On attend le résultat suivant (position finale des tondeuses) : 1 3 N 5 1 E
 Attention : Les données en entrée sont injectées sous forme de fichier Pour le rendu nous préférons un répertoire Git
 
-###
-Pour executer le projet acceder au dossier puis ecrire les commandes suivantes: 
-mvn clean package 
-java -jar target/KataSolent-app-1.0-SNAPSHOT.jar kataTest.txt
+
+##Pour executer le projet acceder au dossier puis ecrire les commandes suivantes: 
+
+**mvn clean package** 
+**java -jar target/KataSolent-app-1.0-SNAPSHOT.jar kataTest.txt**
 
