@@ -23,7 +23,7 @@ Le fichier suivant est fourni en entrée : 5 5 1 2 N GAGAGAGAA 3 3 E AADAADADDA 
 Attention : Les données en entrée sont injectées sous forme de fichier Pour le rendu nous préférons un répertoire Git
 
 
-##Pour executer le projet acceder au dossier puis ecrire les commandes suivantes: 
+<ins>_Pour executer le projet acceder au dossier puis ecrire les commandes suivantes:_</ins> 
 
 **mvn clean package**  
 
